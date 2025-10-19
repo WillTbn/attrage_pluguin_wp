@@ -1,6 +1,6 @@
 # CRM Attrage Integration
 
-Um plugin WordPress para integrar formulários de captura de leads diretamente com o seu CRM Attrage, desenvolvido em Laravel 12.
+Um plugin WordPress para integrar formulários de captura de leads diretamente com o seu CRM Attrage.
 
 ## Descrição
 
@@ -25,8 +25,8 @@ Oferece suporte para:
 Após ativar o plugin, você precisará configurá-lo com as informações da sua API do CRM Attrage:
 
 1.  No painel administrativo do WordPress, vá para **Configurações > CRM Attrage**.
-2.  **Endpoint da API**: Insira a URL completa do endpoint da sua API do CRM Laravel onde os leads devem ser enviados (ex: `https://seucrm.com.br/api/leads`).
-3.  **Token de Acesso da API**: Insira o token de autenticação (Bearer Token) que sua API Laravel espera para autorizar as requisições.
+2.  **Endpoint da API**: Insira a URL completa do endpoint da sua API do CRM Attrage onde os leads devem ser enviados (ex: `https://seucrm.com.br/api/leads`).
+3.  **Token de Acesso da API**: Insira o token de autenticação (Bearer Token) que sua API Attrage espera para autorizar as requisições.
 4.  Clique em **Salvar Configurações** para aplicar as alterações.
 
 ## Como Usar
